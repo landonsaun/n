@@ -1,1 +1,2 @@
-print("will myers is so tight :3 uwu")
+william = "gay"
+print ("william is " + william)
